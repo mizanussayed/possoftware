@@ -1,0 +1,5 @@
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\publish\POSSolution.Application.dll
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\publish\POSSolution.Application.deps.json
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\publish\POSSolution.Application.pdb
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\publish\POSSolution.Core.dll
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\publish\POSSolution.Core.pdb

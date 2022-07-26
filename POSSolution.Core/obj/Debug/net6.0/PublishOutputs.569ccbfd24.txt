@@ -1,0 +1,4 @@
+E:\POSSoftware\POSSolution.Core\bin\Debug\net6.0\publish\POSSolution.Core.dll
+E:\POSSoftware\POSSolution.Core\bin\Debug\net6.0\publish\POSSolution.Core.runtimeconfig.json
+E:\POSSoftware\POSSolution.Core\bin\Debug\net6.0\publish\POSSolution.Core.pdb
+E:\POSSoftware\POSSolution.Core\bin\Debug\net6.0\publish\POSSolution.Core.deps.json

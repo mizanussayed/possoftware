@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "POSSolution.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/POSSolution.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POSSolution.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POSSolution.Core/1.0.0": {
+      "type": "project",
+      "path": "../POSSolution.Core/POSSolution.Core.csproj",
+      "msbuildProject": "../POSSolution.Core/POSSolution.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "POSSolution.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mrahm\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\POSSoftware\\POSSolution.Application\\POSSolution.Application.csproj",
+      "projectName": "POSSolution.Application",
+      "projectPath": "E:\\POSSoftware\\POSSolution.Application\\POSSolution.Application.csproj",
+      "packagesPath": "C:\\Users\\mrahm\\.nuget\\packages\\",
+      "outputPath": "E:\\POSSoftware\\POSSolution.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mrahm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\POSSoftware\\POSSolution.Core\\POSSolution.Core.csproj": {
+              "projectPath": "E:\\POSSoftware\\POSSolution.Core\\POSSolution.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

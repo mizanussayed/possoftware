@@ -1,0 +1,15 @@
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\POSSolution.Application.deps.json
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\POSSolution.Application.dll
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\POSSolution.Application.pdb
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\POSSolution.Core.dll
+E:\POSSoftware\POSSolution.Application\bin\Debug\net6.0\POSSolution.Core.pdb
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.csproj.AssemblyReference.cache
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.AssemblyInfoInputs.cache
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.AssemblyInfo.cs
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.csproj.CoreCompileInputs.cache
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.csproj.CopyComplete
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.dll
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\refint\POSSolution.Application.dll
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\POSSolution.Application.pdb
+E:\POSSoftware\POSSolution.Application\obj\Debug\net6.0\ref\POSSolution.Application.dll
