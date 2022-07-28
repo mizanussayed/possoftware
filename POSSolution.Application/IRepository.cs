@@ -1,6 +1,5 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Threading.Tasks;
-
 namespace POSSolution.Application;
 
 public interface IRepository<T>
