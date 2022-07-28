@@ -19,14 +19,9 @@ policy.AllowAnyOrigin()
 .AllowAnyMethod()
 .AllowAnyHeader()));
 
-builder.Services.AddControllers(options =>
-{
-    options.OutputFormatters.RemoveType<SystemTextJsonOutputFormatter>();
-    options.OutputFormatters.Add(new SystemTextJsonOutputFormatter(new JsonSerializerOptions(JsonSerializerDefaults.Web)
-    {
-        ReferenceHandler = null,
-    }));
-});
+builder.Services.AddControllers().AddNewtonsoftJson(options =>
+                        options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+);
 
 builder.Services.AddScoped<IRepository<Country>, Repository<Country>>();
 builder.Services.AddDbContext<POSContext>(options =>
